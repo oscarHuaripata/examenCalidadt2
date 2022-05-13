@@ -1,0 +1,4 @@
+G:\2022_Calidad\CalidadT2-master\Pruebas_Unitarias\obj\Debug\netcoreapp3.1\Pruebas_Unitarias.csprojAssemblyReference.cache
+G:\2022_Calidad\CalidadT2-master\Pruebas_Unitarias\obj\Debug\netcoreapp3.1\Pruebas_Unitarias.AssemblyInfoInputs.cache
+G:\2022_Calidad\CalidadT2-master\Pruebas_Unitarias\obj\Debug\netcoreapp3.1\Pruebas_Unitarias.AssemblyInfo.cs
+G:\2022_Calidad\CalidadT2-master\Pruebas_Unitarias\obj\Debug\netcoreapp3.1\Pruebas_Unitarias.csproj.CoreCompileInputs.cache
